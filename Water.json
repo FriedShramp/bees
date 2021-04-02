@@ -1,0 +1,36 @@
+{
+    "flower": "minecraft:sea_pickle",
+    "hasHoneycomb": true,
+    "traits": ["can_swim"],
+    "maxTimeInHive": 1800,
+    "ColorData": {
+      "isBeeColored": true,
+      "honeycombColor": "#0037ff",
+      "primaryColor": "#0037ff",
+      "secondaryColor": "#0037ff"
+    },
+    "MutationData": {
+      "hasMutation": false
+    },
+    "CentrifugeData": {
+      "hasCentrifugeOutput": true,
+      "mainOutput": "minecraft:kelp",
+      "mainOutputCount": 4,
+      "secondaryOutput": "minecraft:sea_pickle",
+      "secondaryOutputWeight": 0.25
+    },
+    "SpawnData": {
+      "canSpawnInWorld": true,
+      "biomeWhitelist": "TAG:beach",
+      "lightLevel": "ANY",
+      "spawnWeight": 8
+    },
+    "BreedData": {
+      "isBreedable": true,
+      "feedItem": "minecraft:blaze_powder",
+      "feedAmount": 2
+    },
+    "TraitData": {
+      "hasTraits": true
+    }
+  }

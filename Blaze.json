@@ -1,0 +1,34 @@
+{
+    "flower": "minecraft:crimson_fungus",
+    "hasHoneycomb": true,
+    "traits": ["blaze"],
+    "maxTimeInHive": 1800,
+    "ColorData": {
+      "isBeeColored": true,
+      "honeycombColor": "#ff5e00",
+      "primaryColor": "#ff5e00",
+      "secondaryColor": "#ff5e00"
+    },
+    "MutationData": {
+      "hasMutation": false
+    },
+    "CentrifugeData": {
+      "hasCentrifugeOutput": true,
+      "mainOutput": "minecraft:blaze_powder",
+      "mainOutputCount": 4
+    },
+    "SpawnData": {
+      "canSpawnInWorld": true,
+      "biomeWhitelist": "TAG:nether",
+      "lightLevel": "ANY",
+      "spawnWeight": 8
+    },
+    "BreedData": {
+      "isBreedable": true,
+      "feedItem": "minecraft:blaze_powder",
+      "feedAmount": 2
+    },
+    "TraitData": {
+      "hasTraits": true
+    }
+  }
