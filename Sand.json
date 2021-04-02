@@ -1,0 +1,38 @@
+{
+    "flower":"ALL",
+    "maxTimeInHive":2400,
+    "sizeModifier":1.0,
+    "traits": ["desert"],
+    "hasHoneycomb":true,
+    "ColorData": {
+        "primaryColor":"#f7c45e",
+        "secondaryColor":"#f7c45e",
+        "honeycombColor":"#f7c45e",
+        "isBeeColored": true,
+        "isRainbowBee": false,
+        "isGlowing" : false,
+        "isEnchanted" : false,
+        "modelType": "ORE"
+    },
+    "MutationData": {
+        "hasMutation": false
+    },
+    "CentrifugeData": {
+        "hasCentrifugeOutput": true,
+        "mainOutput":"minecraft:sand"
+    },
+    "SpawnData": {
+        "canSpawnInWorld":true,
+        "spawnWeight": 8,
+        "biomeWhitelist":"tag:sandy",
+        "lightLevel": "ANY"
+    },
+    "BreedData": {
+        "isBreedable": true,
+        "feedItem": "minecraft:sand",
+        "feedAmount": 4
+    },
+    "TraitData": {
+        "hasTraits": true
+    }
+}

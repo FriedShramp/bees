@@ -1,0 +1,38 @@
+{
+    "flower":"ALL",
+    "maxTimeInHive":2400,
+    "sizeModifier":1.0,
+    "hasHoneycomb":true,
+    "ColorData": {
+        "primaryColor":"#808080",
+        "secondaryColor":"#808080",
+        "honeycombColor":"#808080",
+        "isBeeColored": true
+    },
+    "MutationData": {
+        "hasMutation": false
+    },
+    "CentrifugeData": {
+        "hasCentrifugeOutput": true,
+        "mainOutput":"minecraft:cobblestone",
+        "secondaryOutput":"minecraft:gravel",
+        "bottleOutput": "minecraft:honey_bottle",
+        "mainOutputWeight":0.9,
+        "secondaryOutputWeight":0.05,
+        "bottleOutputWeight":0.25
+    },
+    "SpawnData": {
+        "canSpawnInWorld":true,
+        "spawnWeight": 8,
+        "biomeWhitelist":"tag:mountain",
+        "lightLevel": "ANY"
+    },
+    "BreedData": {
+        "isBreedable": true,
+        "feedItem": "minecraft:cobblestone",
+        "feedAmount": 4
+    },
+    "TraitData": {
+        "hasTraits": false
+    }
+}
