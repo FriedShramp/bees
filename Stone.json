@@ -18,14 +18,14 @@
         "mainOutput": "minecraft:stone"
     },
     "SpawnData": {
-        "canSpawnInWorld":false,
-        "parent1": "Cobblestone",
-        "parent2": "Coal"
+        "canSpawnInWorld":false
     },
     "BreedData": {
         "isBreedable": true,
         "feedItem": "minecraft:stone",
-        "feedAmount": 4
+        "feedAmount": 4,
+        "parent1": "Cobblestone",
+        "parent2": "Coal"
     },
     "TraitData": {
         "hasTraits": false

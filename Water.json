@@ -27,7 +27,7 @@
     },
     "BreedData": {
       "isBreedable": true,
-      "feedItem": "minecraft:blaze_powder",
+      "feedItem": "minecraft:sea_pickle",
       "feedAmount": 2
     },
     "TraitData": {

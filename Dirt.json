@@ -5,9 +5,9 @@
     "traits": [],
     "hasHoneycomb":true,
     "ColorData": {
-        "primaryColor":"#858c85",
-        "secondaryColor":"#858c85",
-        "honeycombColor":"#858c85",
+        "primaryColor":"#964B00",
+        "secondaryColor":"#964B00",
+        "honeycombColor":"#964B00",
         "isBeeColored": true
     },
     "MutationData": {
@@ -15,18 +15,16 @@
     },
     "CentrifugeData": {
         "hasCentrifugeOutput": true,
-        "mainOutput": "minecraft:gravel",
-        "secondaryOutput": "minecraft:flint",
-        "secondaryOutputWeight": 0.25
+        "mainOutput": "minecraft:dirt"
     },
     "SpawnData": {
         "canSpawnInWorld":false
     },
     "BreedData": {
         "isBreedable": true,
-        "feedItem": "minecraft:gravel",
+        "feedItem": "minecraft:dirt",
         "feedAmount": 4,
-        "parent1": "Cobblestone",
+        "parent1": "Gravel",
         "parent2": "Sand"
     },
     "TraitData": {

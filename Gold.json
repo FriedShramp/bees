@@ -32,8 +32,8 @@
   },
   "BreedData": {
     "isBreedable": true,
-    "parent1": "Stone",
-    "parent2": "Piglin"
+    "parent1": "Piglin",
+    "parent2": "Stone"
   },
   "TraitData": {}
 }

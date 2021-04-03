@@ -22,9 +22,6 @@
       }
     ]
   },
-  "SpawnData": {
-    "canSpawnInWorld": false
-  },
   "BreedData": {
     "isBreedable": true,
     "parent1": "rgbee",

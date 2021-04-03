@@ -1,13 +1,13 @@
 {
-    "flower":"ALL",
+    "flower":"minecraft:wheat",
     "maxTimeInHive":2400,
     "sizeModifier":1.0,
     "traits": [],
     "hasHoneycomb":true,
     "ColorData": {
-        "primaryColor":"#858c85",
-        "secondaryColor":"#858c85",
-        "honeycombColor":"#858c85",
+        "primaryColor":"#f7d52a",
+        "secondaryColor":"#f7d52a",
+        "honeycombColor":"#f7d52a",
         "isBeeColored": true
     },
     "MutationData": {
@@ -15,19 +15,17 @@
     },
     "CentrifugeData": {
         "hasCentrifugeOutput": true,
-        "mainOutput": "minecraft:gravel",
-        "secondaryOutput": "minecraft:flint",
-        "secondaryOutputWeight": 0.25
+        "mainOutput": "minecraft:wheat"
     },
     "SpawnData": {
         "canSpawnInWorld":false
     },
     "BreedData": {
         "isBreedable": true,
-        "feedItem": "minecraft:gravel",
-        "feedAmount": 4,
-        "parent1": "Cobblestone",
-        "parent2": "Sand"
+        "feedItem": "minecraft:seeds",
+        "feedAmount": 4, 
+        "parent1": "Dirt",
+        "parent2": "Water"
     },
     "TraitData": {
         "hasTraits": false

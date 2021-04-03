@@ -37,7 +37,7 @@
     "bottleOutputWeight": 0.5
   },
   "SpawnData": {
-    "canSpawnInWorld":false
+    "canSpawnInWorld": false
   },
   "BreedData": {
     "isBreedable": true,

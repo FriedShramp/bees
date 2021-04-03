@@ -26,9 +26,7 @@
     "mainOutput": "minecraft:nether_star",
     "mainOutputWeight": 0.01
   },
-  "SpawnData": {
-    "canSpawnInWorld": false
-  },
+  "SpawnData": {},
   "BreedData": {
     "isBreedable": true,
     "parent1": "Coal",

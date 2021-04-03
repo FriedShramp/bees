@@ -19,14 +19,14 @@
         "hasFluidOutput": false
     },
     "SpawnData": {
-        "canSpawnInWorld":false,
-        "parent1": "Cobblestone",
-        "parent2": "Coal"
+        "canSpawnInWorld":false
     },
     "BreedData": {
         "isBreedable": true,
         "feedItem": "minecraft:obsidian",
-        "feedAmount": 1
+        "feedAmount": 1,
+        "parent1": "Cobblestone",
+        "parent2": "Coal"
     },
     "TraitData": {
         "hasTraits": false
